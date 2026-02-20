@@ -1,9 +1,13 @@
+
+streamlit==1.54.0
 tensorflow==2.20.0
 tensorboard==2.20.0
-pandas 
-numpy 
+
+pandas
+numpy
 scikit-learn
 matplotlib
-streamlit
+seaborn
 
 scikeras
+
